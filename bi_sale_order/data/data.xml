@@ -1,0 +1,7 @@
+<odoo>
+    <data>
+        <record id="sale_admin" model="res.groups">
+            <field name="name">Sale Admin</field>
+        </record>
+    </data>
+</odoo>
